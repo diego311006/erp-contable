@@ -1,5 +1,5 @@
 # Code Review Semana 8
-## Revisor: [Nombre de tu compañero] | Revisado: Kevyn Camacaro
+## Revisor: [Nombre de tu compañero] | Revisado: Diego Espinoza
 
 ### Aspectos Positivos
 1. La configuración centralizada de Axios en `erpApi.js` permite mantener un código limpio y modular.
